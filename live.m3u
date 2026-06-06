@@ -4,3 +4,7 @@ https://fta.ektv.in/live/53/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.175.73.12/bucket/images/GOLDMINES.png"group-title="Movies" group-title="",Goldmines 2
 https://fta.ektv.in/live/51/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20260121T010843SQUARE.png"group-title="Movies" group-title="",The Jungle Book
+https://jmp2.uk/stvp-IN25000020M
