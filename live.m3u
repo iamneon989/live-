@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://103.175.73.12/bucket/images/GOLDMINES.png"group-title="Movies" group-title="",Goldmines 1
+https://fta.ektv.in/live/53/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.175.73.12/bucket/images/GOLDMINES.png"group-title="Movies" group-title="",Goldmines 2
+https://fta.ektv.in/live/51/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20260121T010843SQUARE.png"group-title="Cartoon" group-title="India",The Jungle Book
+https://d22vcampfjlwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-q007bwbrs1v4l/ccd0bc35-ebc0-44e4-8fc0-dccc974ee1d3/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20240131T032422SQUARE.png_20240131032423.png"group-title="Music" group-title="India",9X Jalwa
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/ts-eu-w1-n2/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/cb543d1b796c608684cb3e61cef040a5f93b3dda0f74907570ae4a9677df1f4b91b9a290bb4dbc6d5f8219df335c70505c31ca04d67c0795c378fd54322d44279e91e42a8d93313385895b6934e7234a73c634239b45305bfdf44070ef5ab47d165dec077a245fe7d612c90730b2f56ef41f4dc6a7cd5b072c0e1c810c1da5cf0afca2b0041bfa529b8d5739f54f2a93fd3fb8ad62f68af861a212d235ef45ddd29fd5824dd7a4ad59931cc30439670c5cb4a564c9b937dfdb9e7a779f7e38561f2785c9f2ae7c17ec282bca27d2b1dd4cd151aba02b856936c96ff22da503faa02e94c59b2a81beb2de382173c4961809afc7943d1ceeb5cfdc32dbdb234cc1519bd627580da54ccb2b2a77bbf2c71f85d714acc549e8bb62152cd4810acfd3e3d1a1e0ff2ae645c0a5adc0dd238c80f5b3e0795c1efa4f7a429096b6649138b7dfe7/98/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20240131T032425SQUARE.png_20240131032426.png"group-title="Music" group-title="India",9X Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/ts-eu-w1-n2/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/cb543d1b796c608684cb3e61cef040a5f93b3dda0f74907570ae4a9677df1f4b91edf5c0ef4cec395c8219df335c70505c31ca048f2f54c0c37dae5265294675989ee77edf9332338b895b6934e0255e11af2c26ea145328aa837d09812efb7d0c179a61043029bd8e20d93b58edba3dda2b6a95f983251b406064d4392c87d72bc780813908d27c9b8f4d1cd63114a7c22d9d8b41ead98a79a079ba3d8074fdfd84f4ae61fbf8dc69856d8e350d4b6c7c8990469dc850b3a8f6035387501876217bc78eb6e37c17ec282bca27d2b1dd4cd151aba02b856936c96ff22da503faa02e94c59b2a81beb2de382173c4961809afc7943d1ceeb5cfdc32dbdb234cc1519bd627580da54ccb2b2a77bbf2c71f85d714acc549e8bb62152cd4810acfd3e3d1a1e0ff2ae645c0a4a5ce65a22f99e0f3373b05423244cab2dea01f49d8917fac45de/168/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20240131T032430SQUARE.png_20240131032431.png"group-title="Music" group-title="India",9X Tashan
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/ts-eu-w1-n2/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/cb543d1b796c608684cb3e61cef040a5f93b3dda0f74907570ae4a9677df1f4b91eaf2cbbc1dbe60548219df335c70505c31ca04d7745292c37eae523c2e1420c89be17e8a9302338c895b6934e23a5e3eaa5148817c0d00b7837613a40d8546213cc52847782fd7c163912706869e5bcb3f46d5fc80341b416065d42c3d85cf20d28294104ff85698e0480b8b7c1aa7c213ebe7268a80de78a474d722b20ac9cba4a9eb2ab4cdf100d023ff6e7132457c9d933797c749c4b7f00222a8501a613b61c993a7e37c17ec282bca27d2b1dd4cd151aba02b856936c96ff22da503faa02e94c59b2a81beb2de382173c4961809afc7943d1ceeb5cfdc32dbdb234cc1519bd627580da54ccb2b2a77bbf2c71f85d714acc549e8bb62152cd4810acfd3e3d1a1e0ff2ae645c0a4a5cd6da22f9ce1f3373b2fb94c03f5cef83f7d638245ad6db34a/150/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20241211T020333SQUARE.png"group-title="Music" group-title="India",9XM
+https://d3r2w7ppbfeedf.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2gbk0rbth95di/4f1d9b8e-f447-45a1-abc1-682a828b3d2a/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB800002OP_20260407T040228SQUARE.png"group-title="Comedy" group-title="India",&TV
+https://3f56f997.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/8a8206c1-4933-4e5c-9c63-a4147e72f256/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800008VD_20240131T032441SQUARE.png_20240131032441.png"group-title="Music" group-title="India",Balle Balle
+https://jmp2.uk/stvp-INBC2800008VD
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260506T005143SQUARE.png"group-title="Comedy" group-title="India",Kings of Comedy
+https://jmp2.uk/stvp-IN46000184H
+
+
