@@ -23,4 +23,10 @@ https://d3r2w7ppbfeedf.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB800002OP_20260407T040228SQUARE.png"group-title="Comedy" group-title="India",&TV
 https://3f56f997.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/8a8206c1-4933-4e5c-9c63-a4147e72f256/5.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800008VD_20240131T032441SQUARE.png_20240131032441.png"group-title="Music" group-title="India",Balle Balle
+https://jmp2.uk/stvp-INBC2800008VD
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260506T005143SQUARE.png"group-title="Comedy" group-title="India",Kings of Comedy
+https://jmp2.uk/stvp-IN46000184H
+
 
