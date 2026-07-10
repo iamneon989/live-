@@ -59,5 +59,7 @@ https://jmp2.uk/stvp-IN3900017KM
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20260506T005129SQUARE.png"group-title="Anime" group-title="",Animax
 https://jmp2.uk/stvp-INBD13000043W
 
+#EXTINF:-1 tvg-id="40" group-title="Entertainment" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/TV/thumbnail/15d93fe2-ee9a-4134-a6ce-a034f021f060.png", NH BollyFlix
+https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
 
