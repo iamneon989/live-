@@ -62,4 +62,7 @@ https://jmp2.uk/stvp-INBD13000043W
 #EXTINF:-1 tvg-id="40" group-title="Entertainment" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/TV/thumbnail/15d93fe2-ee9a-4134-a6ce-a034f021f060.png", NH BollyFlix
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png", SET HD
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1783800057~acl=/*~id=86e9774078e3c2ecd9ffa0bed9c78f04-1783756853945~hmac=d44c91ce6e9cb985bd62fd2b51efe516ac712b8eaf890aa72df20df90ae5b751
+
 
